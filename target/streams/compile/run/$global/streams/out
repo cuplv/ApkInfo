@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mRunning Main -f /Users/shawnmeier/Documents/data/fdroid/de.k3b.android.toGoZip/2.1.21.190725/apk/de.k3b.android.toGoZip_21.apk -o /Users/shawnmeier/Desktop/foo[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-3 to terminate.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/shawnmeier/Documents/source/ApkInfo/target/scala-2.12/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/shawnmeier/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/shawnmeier/.ivy2/cache/com.github.arguslab/saf-library_2.11/jars/saf-library_2.11-2.0.5.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/shawnmeier/.ivy2/cache/com.google.code.findbugs/jsr305/jars/jsr305-3.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/shawnmeier/.ivy2/cache/org.apache.commons/commons-lang3/jars/commons-lang3-3.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/shawnmeier/.ivy2/cache/com.github.scopt/scopt_2.12/jars/scopt_2.12-3.7.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/shawnmeier/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-3 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
